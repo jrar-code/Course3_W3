@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/actionBar_size"
+    android:elevation="@dimen/actionBar_elevation"
+    android:background="@color/teal_200"
+    >
+
+
+
+        <ImageButton
+            android:id="@+id/ab_patita"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/ic_launcher_foreground"
+            android:paddingHorizontal="@dimen/ab_margin"
+            android:layout_gravity="start"
+            android:layout_marginStart="@dimen/ab_margin"
+            android:contentDescription="@string/spkble_txt_ab_1"
+            />
+
+        <TextView
+            android:id="@+id/ab_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignEnd="@+id/ab_patita"
+            android:paddingHorizontal="@dimen/ab_margin"
+            android:text="@string/app_name"
+            android:layout_gravity="center"
+            android:textSize="@dimen/ab_txsize"
+            android:textStyle="bold"
+            />
+
+
+        <ImageButton
+            android:id="@+id/ab_favs"
+            android:layout_width="@dimen/ab_menuDim"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="@dimen/ab_margin"
+            android:layout_gravity="end"
+            android:src="@android:drawable/btn_star_big_on"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/spkble_txt_ab_2"
+            />
+
+
+
+</android.support.v7.widget.Toolbar>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Petsgram</string>
+    <string name="bn_cambiar">Ir Siguiente</string>
+    <string name="st_item1">Item 1</string>
+
+    <string name="instrucciones">Estrella izquierdo: Like al perrito; Estrella Derecha: Likes totales del perrito; Boton inferior derechi: subir foto; ActionBar: de derecha a izquierda: menú, ir a mis 5 mejores favoritos </string>
+    <string name="instrucciones2">Este menú muestra solo los primeros 5 perritos con más likes que formen parte de tus perritos favoritos </string>
+
+    <string name="item1">Opción 1</string>
+    <string name="item2">Opción 2</string>
+    <string name="item3">Opción 3</string>
+    <string name="spkble_txt_ab_1">imagenPatita</string>
+    <string name="spkble_txt_ab_2">Go To my 5 Fav Dogs!</string>
+
+
+
+    <string name="cv_nombre">nombre Perrito</string>
+    <string name="cv_desc">Perrito Bonito</string>
+    <string name="cv_totLikes">0</string>
+
+    <string name="cntDesc_cvFoto">FotoPerrito</string>
+    <string name="cntDesc_cvLike">miFavorito</string>
+    <string name="cntDesc_cvNLikes">Número de likes de éste perrito</string>
+</resources>

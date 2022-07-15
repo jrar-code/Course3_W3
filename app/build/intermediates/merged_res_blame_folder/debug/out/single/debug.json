@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-xxhdpi_perrito_4.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-xxhdpi\\perrito_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-xhdpi_perrito_6.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-xhdpi\\perrito_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-mdpi_perrito_7.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-mdpi\\perrito_7.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-xhdpi_perrito_2.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-xhdpi\\perrito_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-hdpi_perrito_1.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-hdpi\\perrito_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-xxxhdpi_perrito_3.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-xxxhdpi\\perrito_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-mdpi_perrito_3.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-mdpi\\perrito_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-xxhdpi_perrito_3.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-xxhdpi\\perrito_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-xxhdpi_perrito_1.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-xxhdpi\\perrito_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\layout_actionbar.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\layout\\actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-xxxhdpi_perrito_6.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-xxxhdpi\\perrito_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-hdpi_perrito_2.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-hdpi\\perrito_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-xxhdpi_perrito_7.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-xxhdpi\\perrito_7.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-mdpi_perrito_6.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-mdpi\\perrito_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-xhdpi_perrito_5.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-xhdpi\\perrito_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-xxxhdpi_perrito_2.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-xxxhdpi\\perrito_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-hdpi_perrito_5.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-hdpi\\perrito_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-xxxhdpi_perrito_5.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-xxxhdpi\\perrito_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-hdpi_perrito_7.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-hdpi\\perrito_7.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-xxhdpi_perrito_2.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-xxhdpi\\perrito_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-xhdpi_perrito_1.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-xhdpi\\perrito_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-mdpi_perrito_2.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-mdpi\\perrito_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-xxhdpi_perrito_6.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-xxhdpi\\perrito_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-xxxhdpi_perrito_1.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-xxxhdpi\\perrito_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-mdpi_perrito_5.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-mdpi\\perrito_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-hdpi_perrito_4.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-hdpi\\perrito_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-xhdpi_perrito_4.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-xhdpi\\perrito_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\layout_activity_fav_pets.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\layout\\activity_fav_pets.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-hdpi_perrito_6.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-hdpi\\perrito_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-pngs-8:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-xxxhdpi_perrito_4.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-xxxhdpi\\perrito_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-xxhdpi_perrito_5.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-xxhdpi\\perrito_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-mdpi_perrito_1.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-mdpi\\perrito_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\menu_overflow.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\menu\\overflow.xml"
+    },
+    {
+        "merged": "com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:/layout_activity_main.xml.flat",
+        "source": "com.example.tareas3_mascotas_recycleractionview.app-main-15:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\layout_cv_perrito.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\layout\\cv_perrito.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-xhdpi_perrito_7.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-xhdpi\\perrito_7.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-xhdpi_perrito_3.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-xhdpi\\perrito_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-hdpi_perrito_3.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-hdpi\\perrito_3.png"
+    },
+    {
+        "merged": "com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:/layout_activity_fav_pets.xml.flat",
+        "source": "com.example.tareas3_mascotas_recycleractionview.app-main-15:/layout/activity_fav_pets.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-xxxhdpi_perrito_7.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-xxxhdpi\\perrito_7.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\drawable-mdpi_perrito_4.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\drawable-mdpi\\perrito_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-merged_res-13:\\layout_cv_perrito2.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.tareas3_mascotas_recycleractionview.app-main-15:\\layout\\cv_perrito2.xml"
+    }
+]
